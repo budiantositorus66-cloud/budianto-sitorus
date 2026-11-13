@@ -1,0 +1,6 @@
+{
+  "name": "Informatika SD — Media & Prompt Studio Kelas 4",
+  "description": "Media pembelajaran interaktif pengenalan perangkat keras (hardware) dan perangkat lunak (software) kelas 4 SD beserta generator prompt siap pakai untuk Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
